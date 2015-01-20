@@ -15,7 +15,7 @@ Configuration is achieved through the CodeRush options screen **Ctrl+Shift+Alt+O
 
 The options in question, can be found under **Project\Default Reference Properties**
 
-![](CR_ProjectReferenceDefaults/Screenshots/ProjectReferenceDefaults.png)
+![](Screenshots/ProjectReferenceDefaults.png)
 
 Usage 
 ======
